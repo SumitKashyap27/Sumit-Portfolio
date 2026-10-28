@@ -23,7 +23,7 @@ export const projects = [
     description:
       "Designed an interactive brand experience featuring gamified oral care challenges, product discovery, and engaging activities inspired by the Wizarding World.",
     image: "/images/kiosk-colgate.png",
-    mobileImage: "/images/kiosk-colgate.png",
+    mobileImage: "/images/home-colgate-mobile.png",
     tone: "blue",
     action: "View design",
     href: "https://www.figma.com/proto/EWPDU2i5KUIFI2QaZYFWlB/Works?node-id=2242-100143&scaling=scale-down&content-scaling=fixed",
