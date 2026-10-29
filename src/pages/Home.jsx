@@ -163,7 +163,7 @@ export default function Home() {
 
         <div className="stats">
           <div>
-            <CountUp target={1.7} decimals={1} suffix="+" label="years in design" />
+            <CountUp target={2} label="years in design" />
             <span>
               YEARS IN
               <br />
@@ -171,7 +171,7 @@ export default function Home() {
             </span>
           </div>
           <div>
-            <CountUp target={70} suffix="+" label="projects delivered" />
+            <CountUp target={75} suffix="+" label="projects delivered" />
             <span>
               PROJECTS
               <br />
